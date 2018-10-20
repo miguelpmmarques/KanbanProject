@@ -1,0 +1,13 @@
+MAX TAREFAS POR PESSOA
+MAX TAREFAS EM DOING
+Nº de cartoes(já arranjei uma maneira melhor de fazer isto, mas para ja fica, dado que funciona. Depois se se justificar muda-se)
+ID->
+PRIORIDADE->
+CRIACAO->
+PRAZO->
+CONCLUSAO->
+FASE ->
+DONO ->
+DESCRICAO->
+ID->
+(...) E repete

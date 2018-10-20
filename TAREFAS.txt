@@ -1,0 +1,67 @@
+3
+6
+8
+456579
+6
+24/5/2000 
+1/12/34355 
+12/3/2220 
+3
+4
+Desenvolver o user interface do programa 
+877788
+1
+23/3/2007 
+23/3/2007 
+23/3/2007 
+3
+2
+Retocar a estetica do UI
+349833
+3
+28/2/2017 
+5/1/2018 
+12/2/2019 
+3
+5
+Desenvolver o codigo do programa B
+889499
+2
+18/1/2018 
+30/7/2019 
+42326/12204048/-1 
+1
+-1
+Apresentar um novo design para o site da empresa
+233212
+9
+18/2/2018 
+1/5/2019 
+17877/13968440/-1 
+1
+-1
+Plantar babatas
+156754
+7
+14/4/2018 
+2/5/2018 
+42326/12204048/-1 
+1
+-1
+Fazer o debug do programa A
+117689
+4
+21/6/2018 
+31/7/2018 
+29/5/2019 
+3
+2
+Corrigir os problemas da base de dados K
+213338
+9
+20/2/2198 
+30/5/2323 
+23/1/-1 
+2
+4
+Corrigir o update corrompido da aplicacao X
