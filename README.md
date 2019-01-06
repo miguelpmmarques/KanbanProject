@@ -1,2 +1,2 @@
 # KanbanPrpject
-Kanban Board made in C language
+Kanban Board application made in C language
